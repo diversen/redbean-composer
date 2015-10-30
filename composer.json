@@ -4,7 +4,7 @@
     "description": "Latest Redbeanphp as a simgle file ",
     "homepage": "http://github.com/diversen/redbean-composer",
     "keywords": ["redbean", "composer", "ORM"],
-    "license": "BSD-3-Clause",
+    "license": "DUAL Licensed New BSD and GPLv2",
     "authors": [
         {
             "name": "gabordemooij",
