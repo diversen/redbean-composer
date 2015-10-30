@@ -1,0 +1,15 @@
+{
+    "name": "diversen/redbean-composer",
+    "type": "library",
+    "description": "Latest Redbeanphp as a simgle file ",
+    "homepage": "http://github.com/diversen/redbean-composer",
+    "keywords": ["redbean", "composer", "ORM"],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "gabordemooij",
+            "homepage": "https://github.com/gabordemooij/redbean",
+            "role": "Developer"
+        }
+    ]
+}
