@@ -1,7 +1,7 @@
 {
     "name": "diversen/redbean-composer",
     "type": "library",
-    "description": "Latest Redbeanphp as a simgle file ",
+    "description": "Latest Redbeanphp as a single file ",
     "homepage": "http://github.com/diversen/redbean-composer",
     "keywords": ["redbean", "composer", "ORM"],
     "license": "DUAL Licensed New BSD and GPLv2",
